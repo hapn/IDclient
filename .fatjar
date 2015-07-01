@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Nov 05 14:37:19 CST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=xianchang.jar
+manifest.mergeall=true
+manifest.mainclass=cn.com.jiehun.xianchang.MainProcess
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|Xianchang>~cn/~com/~jiehun/~xianchang/~iccard/;<po|Xianchang>~cn/~com/~jiehun/~xianchang/~idcard/;<jar|jna.jar>
+includes=
